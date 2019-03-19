@@ -1,1 +1,1 @@
-print("Greetings to all birds!")
+print("Hello to all birds!")
